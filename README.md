@@ -232,7 +232,7 @@ Distributed under the MIT License. See `LICENSE` for details.
 **Nguyễn Dung**
 
 * 📍 Nam Định, Việt Nam
-* 📧 Email: 0946199305 (liên hệ cá nhân)
+* 📧 Email: dn427680@gmail.com (liên hệ cá nhân)
 * 🧠 Dự án thực tập tại **Công ty Công Nghệ Thương Mại VNA MADE**
 
 ---
